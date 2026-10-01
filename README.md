@@ -202,6 +202,3 @@ A logical next step is to keep the current architecture and expand it in a disci
 4. Add more I/O devices and memory-mapped behavior
 5. Add a test suite for each instruction separately
 
-## Notes
-
-This is a learning-focused emulator, not a full virtual machine or commercial processor. The value of the project is in understanding CPU mechanics, memory organization, instruction decoding, and execution flow.
